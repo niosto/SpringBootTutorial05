@@ -7,5 +7,5 @@ Repository for the 5th tutorial for the 'Software Architecture' courese. I devel
 ## Run
 In Windows
  ```{bash}
-    ./mvn spring-boot:run
+    ./mvnw spring-boot:run
 ```
